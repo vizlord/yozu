@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yuzo-selb",
+  "private_key_id": "418dcad63edfcf56a460374d422c2399d348dd54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf0ZOYUKDp8Vhw\ncN1cda/3T91s/xicO7cSqLCuomS+CZep0Kh1FgrAF2+BqzSgpUa7MqV0IHMN6jPJ\n/WJhtFgZiFtdS6wvKwjcsRLAk+iLZyBXqDTcIW8zFNln487SOUJxhzjAeJYjtXmr\nWHwvUnEa2rqcEcyChhW5DkzXZxZzlynbcpPjsFqq6wpajI+B0GToBzQ9DT8YrY6k\nkehnud1NwEt383W/xNwstmNvU4/sv4dyCVc0NRxcmgWomJBPWGb9xjROeAVYOri6\n0TgK9YTBhAxF0RgtZfjx685ZBk7G3xB2vKC+p3NaoE1y1mLmRRASz3nzLeMV98Zq\nnS/yPVIVAgMBAAECggEATTC2tmL/DW8llY1VxTIMbwlSe7IMC22mIyt5xqclvEm6\nyGjA7GhcgeHv1/O+g/a/3mt8UUXY/DgJkn5BFcq6oH5lDn8dp1yEN7+IvJ3Tu/zv\nuJbEDSxS3pur08tKWewRBO9YQFIdxhqBLPqcZGjPuzY42meYXNRxSoO3JnSieeoe\nBed151gViPjUWbSgGXs7npOC4jJeOvrWaKnS2USqMyo7Q3c+KnEH1mJuZMV2hPTu\nnNMxj75DijkpCR+UFyXY4026Z3a0LUMsXQJZ4t71LtwD49jf3nyjj6BK2kFrYE9M\naj6uzSqek2XPu/BExjEXkeRcqrPOGbt/VRR9H9K5gwKBgQDL+qjt0rUUXSE3KXMi\nzSbgL1EU6p/oHJwL0FhGfWNrhcRdY4/nNIw86dw7HtVEry1gT8VyJ6mn8pmdxqCx\n8wzEMH73Fts/eZ5+MG/v4Kgkjok1TSBXcEZSRD0pt90D33IPMFZxhwHJiLHME1JT\naqvi9wBCU6qyhkHW+5cciK8RpwKBgQDIk8cnvXHxzvjnd5EIiDwFHQEdXPSBAkdz\nt6VTliRSbVKtigns2wcblHhEbNl6nC4DELNYsI7fnW3IuZw+JNTVT8QrlKrJnUi7\nRu2Lp3ys7nTOcK8CHaQDDXTYbQ8XgnmtJ+JKu4YTTEwssK29+wkKmV2TAxx0cKhc\nGguFapFd4wKBgA6uauw7JzdhAJwEyrmthGfMYAyeWoYNURn0k/X23moFxb1nBhuB\nB7r2phhHPthjt2NgOnjd6/MfnfjiK/zC3p9cUjccmQk3irXQbK4aQF/pNmz0sSg5\n94XCTZisGCdINOBs/TvMmM9VnF5w4ZMJcXeziXw8o2OYEDMWBqlSGS+vAoGAaPzx\nQdvnyKqNnpr3T3//6q1D6Bq/4MdQn0GBSD9Ow9Z1cGDQ0SnUjpsoWKihLYySiQg0\n2DeSkXnV/TsqjVy6Cu21wRoQS3gImf6GWJNSrzIh8e0JrhHVx8NDZgWv4J5rEjfO\nO0/s3i0RslLInqjIEsQ0Nr9qJYjSl2MKpMsjTAECgYB/n0UdbnowNTKm4s9d82mC\nYcT1dEeYeKppnZHTMGNEMnh0iyGFk7QUIkT1o3MdgWF1j+m0gcu7Y0jT//+dkC/V\nHgQdrAH/DxFbytq/5oA1eroA8v/GUHAt8F0wb5nbBM+qq+gHWS2UCMHi0WpFx1do\nkZKwAWVKB5LqidRxikxaAQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yuzofirst@yuzo-selb.iam.gserviceaccount.com",
+  "client_id": "107537775871276475450",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yuzofirst%40yuzo-selb.iam.gserviceaccount.com"
+}
